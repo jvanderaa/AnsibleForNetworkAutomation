@@ -6,5 +6,6 @@ detail on each of the sessions, I will provide links for the individual page.
 
 [Ansible Docs](https://docs.ansible.com/)  
 [Ansible Network Modules](https://docs.ansible.com/ansible/latest/modules/list_of_network_modules.html)  
+[Ansible Network OS Connection Types](https://docs.ansible.com/ansible/latest/network/user_guide/platform_index.html)  
 
-## Session 01 - 
+## Session 01 (Coming Soon)
